@@ -27,7 +27,7 @@ Here are some languages i know:
 
 
 
-I'm a Student, Developer. <img align="right" alt="bavaa | profile_pic" width="300px" src="https://user-images.githubusercontent.com/53929994/97773105-75daa200-1b23-11eb-8e27-2ee45ae52558.PNG" /> I have a passion for learning, ricing/tweaking linux, designing PC builds, creating various scripts and bots to make my life easier and sharing my knowledge with others a public as possible. I love open source. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. You can see a list of a few of my ideas at ![https://rushichaudhari.github.io/](https://rushichaudhari.github.io). 
+I'm a Student, Developer. <img align="right" alt="bavaa | profile_pic" width="300px" src="https://user-images.githubusercontent.com/53929994/97773105-75daa200-1b23-11eb-8e27-2ee45ae52558.PNG" /> I have a passion for learning, ricing/tweaking linux, designing PC builds, creating various scripts and bots to make my life easier and sharing my knowledge with others a public as possible. I love open source. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. You can see a list of a few of my ideas at ![https://bavaa.github.io/](https://bavaa.github.io). 
 
 - 🥅 2020 Goals: Contribute more to the open source projects, learning about portfolio analysis, improving my linux configs
 - ⚡ Fun fact: I eat food, I like computers, reading blogs, keeping my body fit.
@@ -79,14 +79,11 @@ I'm a Student, Developer. <img align="right" alt="bavaa | profile_pic" width="30
 
 <br />
 <br />
-<img width="440px" align="left" alt="rushic24 Github Stats" src="https://github-readme-stats.vercel.app/api?username=rushic24&show_icons=true&hide_border=true" />
+<img width="440px" align="left" alt="bavaa Github Stats" src="https://github-readme-stats.vercel.app/api?username=bavaa&show_icons=true&hide_border=true" />
 
-<img align="right" alt="rushic24 Github programs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushic24&layout=compact&count_private=true" />
+<img align="right" alt="bavaa Github programs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavaa&layout=compact&count_private=true" />
 
 
-[twitter]: https://twitter.com/prabhus165
-[instagram]: https://instagram.com/prabhs_silver
-[linkedin]: https://linkedin.com/in/prabhu-subramanian
-[DEV]: https://dev.to/prabhusub
+[twitter]: https://twitter.com/bavaa
 
 
