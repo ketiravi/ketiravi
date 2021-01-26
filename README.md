@@ -1,17 +1,3 @@
-### Hi there 👋
-
-
-Here are some languages i know:
-
-- python
-- java
-- c++
-- c
-- HTML
-- MySql
-- css
-
-
 <div align="center">
 
 ### Hi there, I'm Bavaa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
