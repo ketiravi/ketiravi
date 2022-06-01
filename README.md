@@ -18,11 +18,7 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 - 🥅 2020 Goals: Contribute more to the open source projects, learning about portfolio analysis, improving my linux configs
 - ⚡ Fun fact: I eat food, I like computers, reading blogs, keeping my body fit.
 
-### Connect with me:
 
-[<img align="left" alt="bavaa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
 
 ### Languages:
 
