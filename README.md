@@ -13,7 +13,7 @@
 
 
 
-I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, designing PC builds, creating various scripts and bots to make my life easier and sharing my knowledge with others a public as possible. I love open source. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. You can see a list of a few of my ideas at ![https://bavaa.github.io/](https://bavaa.github.io). 
+I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, designing PC builds, creating various scripts and bots to make my life easier and sharing my knowledge with others a public as possible. I love open source. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. 
 
 - 🥅 2020 Goals: Contribute more to the open source projects, learning about portfolio analysis, improving my linux configs
 - ⚡ Fun fact: I eat food, I like computers, reading blogs, keeping my body fit.
@@ -31,11 +31,9 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="bash" width="24px" src="https://user-images.githubusercontent.com/43825167/89130164-bd27a700-d4d0-11ea-8a6f-964c8f1f71d5.png" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="34px" src="https://user-images.githubusercontent.com/43825167/89093531-551a7900-d389-11ea-91b5-4ff49f8051dd.png" />
-<img align="left" alt="Oracle" width="26px" src="https://user-images.githubusercontent.com/43825167/89093552-8b57f880-d389-11ea-9a70-5d9384ec5da2.png" />
 
 <br />
 <br />
@@ -52,11 +50,7 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 <br />
 <br />
 
-### Cloud :
-<img align="left" alt="aws" width="30px" src="https://user-images.githubusercontent.com/43825167/89129745-c19e9080-d4cd-11ea-8ced-53520586e6fb.png" />
-<img align="left" alt="gcp" width="26px" src="https://user-images.githubusercontent.com/43825167/89129758-e09d2280-d4cd-11ea-981f-7b1f4241ad06.png" />
-<br />
-<br />
+
 
 ### OS :
 <img align="left" alt="Arch" height="30px" src="https://www.archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" />
