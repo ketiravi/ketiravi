@@ -59,11 +59,8 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 
 <br />
 <br />
-<img width="440px" align="left" alt="bavaa Github Stats" src="https://github-readme-stats.vercel.app/api?username=bavaa&show_icons=true&hide_border=true" />
-
 <img align="right" alt="bavaa Github programs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavaa&layout=compact&count_private=true" />
 
 
-[twitter]: https://twitter.com/bavaa
 
 
