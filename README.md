@@ -1,8 +1,6 @@
 <div align="center">
   
-  ###Hi there, I'm ravi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</div>
-
+  ### Hi there, I'm ravi
 <div align="center">
 <img src="https://user-images.githubusercontent.com/53929994/97773333-21382680-1b25-11eb-8de9-eba964792cd8.gif" >
   
